@@ -1,0 +1,5 @@
+name = Dragomans Content Types
+description = This feature packages fields and taxonomies for the Dragoman's Database
+core = 7.x
+package = Features
+features[features_api][] = api:2
